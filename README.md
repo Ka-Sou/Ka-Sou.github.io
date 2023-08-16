@@ -109,6 +109,8 @@ RSP-04プロジェクト
 
 ・地上局ソフトウェア開発
 
+・IoTモジュールのテックリード
+
 ・SDR地上局のフロントエンド系設計・開発/検証（SDR＋GNURadio＋RaspberryPi4）
 
 ・UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チーム学生メンバー
