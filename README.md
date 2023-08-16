@@ -18,6 +18,9 @@
 【高校】
 私立麻布大学附属高等学校
 
+【SNS】
+https://www.facebook.com/profile.php?id=100093539415194
+
 # activities
 UNISEC
 
