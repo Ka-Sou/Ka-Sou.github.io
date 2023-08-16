@@ -44,10 +44,14 @@ RSP-04プロジェクト
 
 天気観測超小型IoTモジュールの開発プロジェクト
 
-#　Satellite
+# Satellites
+
 50kg : 2
+
 6U : 2
+
 3U : 1
+
 1U : 2
 
 # paper
