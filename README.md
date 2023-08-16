@@ -65,10 +65,14 @@ RSP-04
 【スキル】
 ・プログラミング
 　C
+ 
 　Visual C#
-　Python
-　C++
-　Basic
+
+  Python
+　
+  C++
+　
+  Basic
 　
 ・回路設計
 
