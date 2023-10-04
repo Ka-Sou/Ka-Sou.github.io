@@ -30,10 +30,14 @@ UNISEC　（2019-2022）
 
 # 研究室
 【修士】
-奥山研究室
+奥山研究室 
+
+https://aero.cst.nihon-u.ac.jp/okuyama/
 
 【学部】
 鶴田研究室（宇宙電気電子電波研究室）
+
+https://www.teikyo-u.ac.jp/faculties/science_tech/labo/aerospace_tsuruta
 
 # プロジェクト
 【参加プロジェクト一覧】
