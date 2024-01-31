@@ -64,13 +64,19 @@ UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チー�
 
 # 累計参加数
 
-50kg : 2 （TeikyoSat-4，TeikyoSat-5）
+50kg : 2 （TeikyoSat-4，TeikyoSat-5）  
+![image](https://www.teikyo-u.ac.jp/application/files/4816/3246/0482/news_20210924_01.jpg)  
+[引用元：https://www.teikyo-u.ac.jp/topics/2021/0924]
 
-6U : 2　（TenKoh-2，計画中止衛星）
+6U : 2　（TenKoh-2，計画中止衛星）  
+![image](https://github.com/Ka-Sou/Ka-Sou.github.io/assets/75139238/bde414be-66e6-47e9-b908-5c6a5b4253e0)  
+[引用元：https://aero.cst.nihon-u.ac.jp/news/project/news1287]
 
 3U : 1　（ベンチャー衛星）
 
-1U : 2　（RSP-02, RSP-04）
+1U : 2　（RSP-02, RSP-04）  
+![image](https://www.rymansat.com/wp-content/uploads/2023/03/unnamed.png)  
+[引用元：https://www.rymansat.com/archives/14590]
 
 月面ローバー：1（ベンチャー）
 
