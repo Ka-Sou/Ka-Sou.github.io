@@ -80,7 +80,9 @@ UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チー�
 ![image](https://www.rymansat.com/wp-content/uploads/2023/03/unnamed.png)  
 [引用元：https://www.rymansat.com/archives/14590]
 
-月面ローバー：1（ベンチャー）
+月面ローバー：1（ベンチャー）  
+![image](https://spacemedia.jp/wp-content/uploads/%E7%94%BB%E5%83%8F1-20.jpg)  
+[引用元：https://spacemedia.jp/spacebis/3707]  
 
 CanSat：1（FUSiON）  
 ![image](https://pbs.twimg.com/media/GKPXb3SbsAAuSgf?format=jpg&name=900x900)  
