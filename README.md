@@ -82,7 +82,9 @@ UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チー�
 
 月面ローバー：1（ベンチャー）
 
-CanSat：1（FUSiON）
+CanSat：1（FUSiON）  
+![image](https://pbs.twimg.com/media/GKPXb3SbsAAuSgf?format=jpg&name=900x900)  
+[引用元：https://x.com/CanSat_FUSiON/status/1775499612490797516]  
 
 IoTモジュール : 1（研究室PJ）
 
