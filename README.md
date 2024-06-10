@@ -58,33 +58,39 @@ RSP-02プロジェクト (2021-)
 
 UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チーム学生メンバー (2022-)
 
-地上試験用1Uモジュールの開発プロジェクト (2023-)
+地上試験用1Uモジュールの開発プロジェクト (2023-2024)
 
 月面小型ローバー(2024‐)
 
 # 累計参加数
 
-50kg : 2 （TeikyoSat-4，TeikyoSat-5）  
+50kg : 2 （TeikyoSat-4，TeikyoSat-5）    
+TS4：電気系STM～打ち上げまで，TS5：概念検討  
 ![image](https://www.teikyo-u.ac.jp/application/files/4816/3246/0482/news_20210924_01.jpg)  
 [引用元：https://www.teikyo-u.ac.jp/topics/2021/0924]
 
-6U : 2　（TenKoh-2，計画中止衛星）  
+6U : 2　（TenKoh-2，計画中止衛星）   
+TK2：FM～打ち上げ ，計画中止衛星：概念設計～EM  
 ![image](https://github.com/Ka-Sou/Ka-Sou.github.io/assets/75139238/bde414be-66e6-47e9-b908-5c6a5b4253e0)  
 [引用元：https://aero.cst.nihon-u.ac.jp/news/project/news1287]
 
-3U : 2　（ベンチャー衛星，研究室次期衛星）  
+3U : 2　（ベンチャー衛星，研究室次期衛星）    
+ベンチャー衛星：EM，研究室次期衛星：ミッション検討～  
 ![image](https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/image.png)  
 [引用元：https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/234/SDC8-paper234.pdf]  
 
-1U : 2　（RSP-02, RSP-04）  
+1U : 2　（RSP-02, RSP-04）    
+RSP-02：EM～，RSP-04：ミッション検討～  
 ![image](https://www.rymansat.com/wp-content/uploads/2023/03/unnamed.png)  
 [引用元：https://www.rymansat.com/archives/14590]
 
-月面ローバー：1（ベンチャー）  
+月面ローバー：1（ベンチャー）    
+ベンチャー：EM～  
 ![image](https://spacemedia.jp/wp-content/uploads/%E7%94%BB%E5%83%8F1-20.jpg)  
 [引用元：https://spacemedia.jp/spacebis/3707]  
 
-CanSat：1（FUSiON）  
+CanSat：1（FUSiON）    
+CanSat：概念検討～大会  
 ![image](https://pbs.twimg.com/media/GKPXb3SbsAAuSgf?format=jpg&name=900x900)  
 [引用元：https://x.com/CanSat_FUSiON/status/1775499612490797516]  
 
