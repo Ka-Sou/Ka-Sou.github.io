@@ -70,46 +70,50 @@ ASE-Lab. ASE-SAT(2024)
 
 50kg : 2 （TeikyoSat-4，TeikyoSat-5）    
 TS4：電気系STM～打ち上げまで，TS5：概念検討  
-![image](https://www.teikyo-u.ac.jp/application/files/4816/3246/0482/news_20210924_01.jpg)  
+<img src="https://www.teikyo-u.ac.jp/application/files/4816/3246/0482/news_20210924_01.jpg" width="400">  
 [引用元：https://www.teikyo-u.ac.jp/topics/2021/0924]
 
 6U : 2　（TenKoh-2，計画中止衛星）   
 TK2：FM～打ち上げ ，計画中止衛星：概念設計～EM  
-![image](https://github.com/Ka-Sou/Ka-Sou.github.io/assets/75139238/bde414be-66e6-47e9-b908-5c6a5b4253e0)  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/assets/75139238/bde414be-66e6-47e9-b908-5c6a5b4253e0" width="400">  
 [引用元：https://aero.cst.nihon-u.ac.jp/news/project/news1287]
 
 3U : 2　（ベンチャー衛星，TenKoh-3）    
 ベンチャー衛星：EM，TenKoh-3：ミッション検討～  
-![image](https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/image.png)  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/image.png" width="400">  
 [引用元：https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/234/SDC8-paper234.pdf]  
 
 1U : 2　（RSP-02, RSP-04）    
 RSP-02：EM～，RSP-04：ミッション検討～  
-![image](https://www.rymansat.com/wp-content/uploads/2023/03/unnamed.png)  
+<img src="https://www.rymansat.com/wp-content/uploads/2023/03/unnamed.png" width="400">  
 [引用元：https://www.rymansat.com/archives/14590]
 
 月面ローバー：1（ベンチャー）    
-ベンチャー：EM～  
-![image](https://spacemedia.jp/wp-content/uploads/%E7%94%BB%E5%83%8F1-20.jpg)  
+YAOKI：EM～  
+<img src="https://spacemedia.jp/wp-content/uploads/%E7%94%BB%E5%83%8F1-20.jpg" width="400">  
 [引用元：https://spacemedia.jp/spacebis/3707]  
 
 CanSat：1（FUSiON）    
-CanSat：概念検討～大会  
-![image](https://pbs.twimg.com/media/GKPXb3SbsAAuSgf?format=jpg&name=900x900)  
+FUSiON-FLOW：概念検討～大会  
+<img src="https://pbs.twimg.com/media/GKPXb3SbsAAuSgf?format=jpg&name=900x900" width="400">  
 [引用元：https://x.com/CanSat_FUSiON/status/1775499612490797516]  
 
-IoTモジュール : 1（研究室PJ）
+IoTモジュール : 1（研究室PJ）  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/iotmodules.jpg" width="400">
 
 地上試験用1U : 1 （研究室PJ）   
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/linnen.jpg" width="400">
 
 成層圏気球ペイロード：1（FUSiON）  
 
 ハンズオン教育用1Uモジュール：1 （FUSiON/ASE-Lab．）  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/asesatlite.jpg" width="400">
 
 # 論文(共著含む)
 ・【多目的宇宙環境利用実験衛星TeikyoSat-4の衛星局および地上局の開発結果報告】  
  金子颯汰 (帝京大) ,  青木位織 (帝京大) ,  鶴田佳宏 (帝京大) ,  久保田弘敏 (帝京大) ,  河村政昭 (帝京大) ,  柴田克哉 (大日光・エンジニアリング)  
- 第66回宇宙科学技術連合講演会,2022
+ 第66回宇宙科学技術連合講演会,2022  
+ https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302258019999127  
 
 ・【ソフトウェア無線による衛星通信シミュレータの開発、及び妥当性の検証】  
 白砂慎人，金子颯汰，奥山圭一（日大）  
@@ -117,31 +121,40 @@ IoTモジュール : 1（研究室PJ）
 
 ・【UNISEC超小型衛星ミッションアシュアランス情報共有Webサイトの開発・運用から得られた知見】  
 鶴田 佳宏(帝京大), 青木 位織, 金子 颯汰(日大), 宮田 喜久子(名城大), 増田 和三(静岡理工科大), 趙 孟佑(九工大), 桒原聡文(東北大), 北澤 幸人(JAXA)  
-第67回宇宙科学技術連合講演会，2023
+第67回宇宙科学技術連合講演会，2023  
+https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402211271917624  
 
 ・【多目的宇宙環境利用実験衛星「TeikyoSat-4」の運用状況】  
  河村政昭 (帝京大) ,  鶴田佳宏 (帝京大) ,  杉本秀真 (帝京大) ,  青木位織 (帝京大) ,  須田航平 (帝京大) ,  金子颯太 (帝京大) ,  藤本翔太 (帝京大) ,  工藤優太 (帝京大) ,  中宮賢樹 (帝京大) ,  木村恵 (帝京大) ,  久保田弘敏 (帝京大) ,  柴田克哉 (大日光エンジニアリング)  
-第66回宇宙科学技術連合講演会, 2022
-
-
+第66回宇宙科学技術連合講演会, 2022  
+https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302223235358438  
 
 ・【多目的宇宙環境利用実験衛星「TeikyoSat-4」の開発結果報告】  
 河村政昭 (帝京大) ,  鶴田佳宏 (帝京大) ,  杉本秀真 (帝京大) ,  青木位織 (帝京大) ,  須田航平 (帝京大) ,  圓城寺航也 (帝京大) ,  馬場敦 (帝京大) ,  金子颯太 (帝京大) ,  小松宏典 (帝京大) ,  藤森政紀 (帝京大) ,  中宮賢樹 (帝京大) ,  久保田弘敏 (帝京大) ,  柴田克哉 (大日光エンジニアリング)  
-第65回宇宙科学技術連合講演会, 2021
+第65回宇宙科学技術連合講演会, 2021  
+https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202269664136926  
 
 # 受賞歴  
 ・航空宇宙講演会in Tochigi 2021　TeikyoSat-4プロジェクト　表彰式  
+<img src="https://github.com/user-attachments/assets/d49fbab3-eaf0-41fb-a6f4-60da9e8908a9" width="400">  
 http://www.tasc-tochigi.com/event/r03-r04/event-kouen031213gallery02.html  
 2021年12月  
   
 ・種子島ロケットコンテスト 2024年大会　ベストプレゼン賞 「FUSiON-FLOW」  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/tanekon.jpg" width="400">  
 2024年3月
   
 ・星取県ビジネスアイデアコンテスト　学生の部　優秀賞 「OpenSAT」   
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/opensat.jpg" width="400">  
 2024年3月      
 
+・Maker Faire Tokyo 2024 Young Maker Challenge 2024 特別賞　「宇宙仕様OBC — FUSiON」  
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/mft2024fusion.jpg" width="400">  
+https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=IwZXh0bgNhZW0CMTEAAR34JsE6Q1d9XlKShoB1azXlfsa_Hbiy1BL72HUlLD3xjRIC3MlMo2rNBG8_aem_po-YADabNndAx-f3oF5eJg  
+2024年11月
+
 # 分野
-通信系・地上局系・データ処理系
+システム・通信系・地上局系・データ処理系
 
 # 研究
 【修論】
