@@ -107,11 +107,13 @@ IoTモジュール : 1（研究室PJ）
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/linnen.jpg" width="400">
 
 成層圏気球ペイロード：1（FUSiON）  
-開発のお手伝い
+FUSiONペイロードの通信系開発    
+<img src="https://images-ext-1.discordapp.net/external/Jga7SVV9zCZGzjG6b4CzdCCoBgltmDsPU0qrrvzAn_I/https/pbs.twimg.com/media/GJHID-XagAA3638.jpg%3Alarge?format=webp&width=788&height=533" width="400">  
+[引用元：https://x.com/pq_spaceballoon/status/1770416118223802672?s=46&t=dlLsGsTM2QCFd3oWGhIq9Q]
 
 ハンズオン教育用1Uモジュール：1 （FUSiON/ASE-Lab．）  
 概念検討～イベント開催  
-<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/asesatlite.jpg" width="400">
+<img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/asesatlite.jpg" width="400">  
 
 # 論文(共著含む)
 ・【多目的宇宙環境利用実験衛星TeikyoSat-4の衛星局および地上局の開発結果報告】  
