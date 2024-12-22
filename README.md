@@ -19,7 +19,10 @@
 麻布大学附属高等学校 (2016-2019)
 
 【SNS】
-https://www.facebook.com/profile.php?id=100093539415194
+https://www.facebook.com/profile.php?id=100093539415194  
+
+【Qiita】
+https://qiita.com/Ka-Sou  
 
 # 参加団体(過去も含む)
 UNISEC　（2019-2022）
