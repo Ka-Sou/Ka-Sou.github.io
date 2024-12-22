@@ -78,8 +78,8 @@ TK2：FM～打ち上げ ，計画中止衛星：概念設計～EM
 ![image](https://github.com/Ka-Sou/Ka-Sou.github.io/assets/75139238/bde414be-66e6-47e9-b908-5c6a5b4253e0)  
 [引用元：https://aero.cst.nihon-u.ac.jp/news/project/news1287]
 
-3U : 2　（ベンチャー衛星，研究室次期衛星）    
-ベンチャー衛星：EM，研究室次期衛星：ミッション検討～  
+3U : 2　（ベンチャー衛星，TenKoh-3）    
+ベンチャー衛星：EM，TenKoh-3：ミッション検討～  
 ![image](https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/image.png)  
 [引用元：https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/234/SDC8-paper234.pdf]  
 
