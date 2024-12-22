@@ -160,7 +160,7 @@ http://www.tasc-tochigi.com/event/r03-r04/event-kouen031213gallery02.html
 ・Maker Faire Tokyo 2024 Young Maker Challenge 2024 特別賞　「宇宙仕様OBC — FUSiON」  
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/mft2024fusion.jpg" width="400">  
 https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=IwZXh0bgNhZW0CMTEAAR34JsE6Q1d9XlKShoB1azXlfsa_Hbiy1BL72HUlLD3xjRIC3MlMo2rNBG8_aem_po-YADabNndAx-f3oF5eJg  
-2024年11月
+2024年9月
 
 # 分野
 システム・通信系・地上局系・データ処理系
