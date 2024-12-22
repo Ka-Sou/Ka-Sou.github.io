@@ -69,7 +69,7 @@ ASE-Lab. ASE-SAT(2024)
 # 累計参加数
 
 50kg : 2 （TeikyoSat-4，TeikyoSat-5）    
-TS4：電気系STM～打ち上げまで，TS5：概念検討  
+TS4：電気系STM～打ち上げ・運用，TS5：概念検討  
 <img src="https://www.teikyo-u.ac.jp/application/files/4816/3246/0482/news_20210924_01.jpg" width="400">  
 [引用元：https://www.teikyo-u.ac.jp/topics/2021/0924]
 
@@ -99,14 +99,18 @@ FUSiON-FLOW：概念検討～大会
 [引用元：https://x.com/CanSat_FUSiON/status/1775499612490797516]  
 
 IoTモジュール : 1（研究室PJ）  
+概念検討～報告会  
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/iotmodules.jpg" width="400">
 
 地上試験用1U : 1 （研究室PJ）   
+概念検討～地上試験  
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/linnen.jpg" width="400">
 
 成層圏気球ペイロード：1（FUSiON）  
+開発のお手伝い
 
 ハンズオン教育用1Uモジュール：1 （FUSiON/ASE-Lab．）  
+概念検討～イベント開催  
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/asesatlite.jpg" width="400">
 
 # 論文(共著含む)
