@@ -229,4 +229,4 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 
 ・超小型衛星のシステム設計　/システム統括  
 
-・端末処理型ミッションシステムの設計　/開発　/検証  
+・末端処理型ミッションシステムの設計　/開発　/検証  
