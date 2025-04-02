@@ -163,7 +163,7 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 2024年9月
 
 # 分野
-システム・通信系・地上局系・データ処理系
+衛星システム・通信系・地上局系・データ処理系
 
 # 研究
 【修論】
@@ -190,7 +190,9 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 
 ・電磁界シミュレーション
 
-・アンテナ設計
+・アンテナ設計  
+
+・システム設計
 
 # これまでの実績
 ・L帯パッチアンテナの設計　/解析　/制作（レジスト作成・エッチング）/評価
@@ -207,7 +209,7 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 
 ・工学ミッション系統括OBCのソフトウェアの開発（1部）/検証
 
-・地上局整備
+・地上局設計　/整備　/アドバイザー
 
 ・地上局ソフトウェア開発
 
@@ -223,4 +225,8 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 
 ・CanSat通信・地上局系のシステム設計　/開発　/検証
 
-・月面ローバーの通信担当（アンテナ）
+・月面ローバーの通信担当（アンテナ）  
+
+・超小型衛星のシステム設計　/システム統括  
+
+・端末処理型ミッションシステムの設計　/開発　/検証  
