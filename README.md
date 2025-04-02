@@ -8,9 +8,9 @@
 【年齢】
 24歳
 
-【修士】(在籍中)
+【修士】
 日本大学大学院　理工学研究科　航空宇宙工学専攻
-博士前期課程 (2023-)
+博士前期課程 (2023-2025)
 
 【学部】
 帝京大学　理工学部　航空宇宙工学科 (2019-2022)
@@ -53,19 +53,19 @@ RSP-02プロジェクト (2021-)
 
 次期RSPプロジェクト (2023-)
 
-てんこうプロジェクト (2023-)
+てんこうプロジェクト (2023-2025)
 
 ベンチャー企業衛星 (2021-2022)
 
 天気観測超小型IoTモジュールの開発プロジェクト (2022)
 
-UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チーム学生メンバー (2022-)
+UNISEC 超小型衛星Mission Assurance 情報共有Webサイト　運営チーム学生メンバー (2022-2024)
 
 地上試験用1Uモジュールの開発プロジェクト (2023-2024)   
 
 FUSiON Mission5(2023-2024)
 
-月面小型ローバー(2024‐)   
+月面小型ローバー(2024‐2025)   
 
 ASE-Lab. ASE-SAT(2024)
 
@@ -82,7 +82,7 @@ TK2：FM～打ち上げ ，計画中止衛星：概念設計～EM
 [引用元：https://aero.cst.nihon-u.ac.jp/news/project/news1287]
 
 3U : 2　（ベンチャー衛星，TenKoh-3）    
-ベンチャー衛星：EM，TenKoh-3：ミッション検討～  
+ベンチャー衛星：EM，TenKoh-3：ミッション検討～BBM  
 <img src="https://github.com/Ka-Sou/Ka-Sou.github.io/blob/main/images/image.png" width="400">  
 [引用元：https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/234/SDC8-paper234.pdf]  
 
@@ -92,7 +92,7 @@ RSP-02：EM～，RSP-04：ミッション検討～
 [引用元：https://www.rymansat.com/archives/14590]
 
 月面ローバー：1（ベンチャー）    
-YAOKI：EM～  
+YAOKI：EM～FM  
 <img src="https://spacemedia.jp/wp-content/uploads/%E7%94%BB%E5%83%8F1-20.jpg" width="400">  
 [引用元：https://spacemedia.jp/spacebis/3707]  
 
@@ -167,7 +167,7 @@ https://makezine.jp/blog/2024/11/mft2024-young-maker-challenge-2024.html?fbclid=
 
 # 研究
 【修論】
-「ICER画像圧縮アルゴリズムと誤り訂正符号を用いた画像データの生成と超小型衛星への適用（仮）」
+「ICER画像圧縮アルゴリズムによる耐誤り画像伝送システムの概念検討と超小型衛星への適用評価」
 
 【卒論】
 「複数の周波数帯に対応したフロントエンド系を有する地上局システムの概念検討・成立性評価」
